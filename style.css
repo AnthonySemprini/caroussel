@@ -32,47 +32,47 @@
 border: 1px solid whitesmoke;
 border-radius: 10px;
 width:200px;
-height: 400px;
+height: 200px;
 min-width:200px;
-min-height:400px;
+min-height:200px;
 transition-duration: 1000ms;
 margin: 5px;
 z-index: 1;
 }
 .card1{
-    background: url(media/img1.jpg);
+    background: url(media/cat1.jpeg);
     background-size: cover;
 }
 .card2{
-background:url(media/img2.png);
+background:url(media/cat2.jpeg);
 background-size: cover;
 
 }
 .card3{
-background:url(media/img3.jpg);
+background:url(media/cat3.jpeg);
 background-size: cover;
 }
 .card4{
-background:url(media/img4.jpg);
+background:url(media/cat4.jpeg);
 background-size: cover;
 }
 .card5{
-background:url(media/img5.jpg);
+background:url(media/cat5.jpeg);
 background-size: cover;
 }
 .card6{
-background:url(media/img6.jpg);
+background:url(media/cat6.jpeg);
 background-size: cover;
 }
 .card7{
-background:url(media/img7.jpg);
+background:url(media/cat7.jpeg);
 background-size: cover;
 }
 .card8{
-background:url(media/img8.jpg);
+background:url(media/cat8.jpeg);
 background-size: cover;
 }
 .card9{
-background:url(media/img9.jpg);
+background:url(media/cat9.jpeg);
 background-size: cover;
 }
