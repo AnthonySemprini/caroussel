@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#container{
+    background-color: antiquewhite;
+    height: 100vh;
+    display: flex;
+}
+
+
+.slide{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    overflow:scroll;
+    scroll-behavior: smooth;
+}
+.ensemble-fleche{
+    width:700px;
+    min-width: 700px;
+    display: flex;
+    margin: auto;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+.card{
+border: 1px solid whitesmoke;
+border-radius: 10px;
+width:200px;
+height: 400px;
+min-width:200px;
+min-height:400px;
+transition-duration: 1000ms;
+margin: 5px;
+z-index: 1;
+}
+.card1{
+    background: url(media/img1.jpg);
+    background-size: cover;
+}
+.card2{
+background:url(media/img2.png);
+background-size: cover;
+
+}
+.card3{
+background:url(media/img3.jpg);
+background-size: cover;
+}
+.card4{
+background:url(media/img4.jpg);
+background-size: cover;
+}
+.card5{
+background:url(media/img5.jpg);
+background-size: cover;
+}
+.card6{
+background:url(media/img6.jpg);
+background-size: cover;
+}
+.card7{
+background:url(media/img7.jpg);
+background-size: cover;
+}
+.card8{
+background:url(media/img8.jpg);
+background-size: cover;
+}
+.card9{
+background:url(media/img9.jpg);
+background-size: cover;
+}
