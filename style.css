@@ -14,13 +14,14 @@
 .slide{
     padding-top: 80px;
     padding-bottom: 80px;
+    
     display: flex;
     overflow:scroll;
     scroll-behavior: smooth;
 }
 .ensemble-fleche{
-    width:700px;
-    min-width: 700px;
+    width:690px;
+    min-width: 690px;
     display: flex;
     margin: auto;
 }
