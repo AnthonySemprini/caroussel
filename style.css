@@ -8,6 +8,9 @@
     background-color: antiquewhite;
     height: 100vh;
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
 }
 
 
@@ -20,8 +23,8 @@
     scroll-behavior: smooth;
 }
 .ensemble-fleche{
-    width:690px;
-    min-width: 690px;
+    width:681px;
+    min-width: 681px;
     display: flex;
     margin: auto;
 }
@@ -30,7 +33,7 @@
     display: none;
 }
 .card{
-border: 1px solid whitesmoke;
+
 border-radius: 10px;
 width:200px;
 height: 200px;
@@ -41,39 +44,39 @@ margin: 5px;
 z-index: 1;
 }
 .card1{
-    background: url(media/cat1.jpeg);
+    background: url(media/paysage1.jpeg);
     background-size: cover;
 }
 .card2{
-background:url(media/cat2.jpeg);
+background:url(media/paysage2.jpeg);
 background-size: cover;
 
 }
 .card3{
-background:url(media/cat3.jpeg);
+background:url(media/paysage3.jpeg);
 background-size: cover;
 }
 .card4{
-background:url(media/cat4.jpeg);
+background:url(media/paysage4.jpeg);
 background-size: cover;
 }
 .card5{
-background:url(media/cat5.jpeg);
+background:url(media/paysage5.jpeg);
 background-size: cover;
 }
 .card6{
-background:url(media/cat6.jpeg);
+background:url(media/paysage6.jpeg);
 background-size: cover;
 }
 .card7{
-background:url(media/cat7.jpeg);
+background:url(media/paysage7.jpeg);
 background-size: cover;
 }
 .card8{
-background:url(media/cat8.jpeg);
+background:url(media/paysage8.jpeg);
 background-size: cover;
 }
 .card9{
-background:url(media/cat9.jpeg);
+background:url(media/paysage9.jpeg);
 background-size: cover;
 }
