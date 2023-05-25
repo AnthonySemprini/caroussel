@@ -1,2 +1,2 @@
 # caroussel
-<impg src="caroussel.png >
+<img src="caroussel.png >
